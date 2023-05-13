@@ -1,0 +1,30 @@
+﻿  OpenCVApplication.cpp
+C:\Users\Razvan\Desktop\Facultate\AN 3\Visual Studio\PI Project\OpenCVApplication.cpp(68,42): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Razvan\Desktop\Facultate\AN 3\Visual Studio\PI Project\OpenCVApplication.cpp(68,26): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Razvan\Desktop\Facultate\AN 3\Visual Studio\PI Project\OpenCVApplication.cpp(100,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Razvan\Desktop\Facultate\AN 3\Visual Studio\PI Project\OpenCVApplication.cpp(100,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Razvan\Desktop\Facultate\AN 3\Visual Studio\PI Project\OpenCVApplication.cpp(114,42): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Razvan\Desktop\Facultate\AN 3\Visual Studio\PI Project\OpenCVApplication.cpp(114,26): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Razvan\Desktop\Facultate\AN 3\Visual Studio\PI Project\OpenCVApplication.cpp(282,15): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Razvan\Desktop\Facultate\AN 3\Visual Studio\PI Project\OpenCVApplication.cpp(284,13): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  OpenCVApplication.vcxproj -> C:\Users\Razvan\Desktop\Facultate\AN 3\Visual Studio\PI Project\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_videoio_ffmpeg460_64.dll
+  OpenCV\dll\Debug\opencv_videoio_msmf460_64d.dll
+  OpenCV\dll\Debug\opencv_world460d.dll
+          3 file(s) copied.
